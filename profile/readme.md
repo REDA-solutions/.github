@@ -21,21 +21,9 @@ We understand the importance of data infrastructure and its impact on business s
 ### Consulting and Strategy
 REDA's consulting services aim to guide businesses in formulating data-driven strategies. We collaborate with clients to identify opportunities, define key performance indicators (KPIs), and devise data-driven roadmaps to achieve business objectives.
 
-## Success Stories
-XXX future 
-
 ##  Contact Us
 If you have any questions, business inquiries, or want to learn more about our services, feel free to get in touch:
 
-Website: www.redaconsulting.com
-* Email: contact@redaconsulting.com
-* Phone: +1 (123) 456-7890
+Website: www.reda-solutions.de
+* Email: info@reda-solutions.de
 
-## Follow Us
-Stay updated with the latest news and updates from REDA by following us on social media:
-
-* Twitter: twitter.com/REDAConsulting
-* LinkedIn: linkedin.com/company/reda-consulting
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
