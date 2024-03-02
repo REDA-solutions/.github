@@ -24,6 +24,6 @@ REDA's consulting services aim to guide businesses in formulating data-driven st
 ##  Contact Us
 If you have any questions, business inquiries, or want to learn more about our services, feel free to get in touch:
 
-Website: www.reda-solutions.de
+* Website: www.reda-solutions.de
 * Email: info@reda-solutions.de
 
